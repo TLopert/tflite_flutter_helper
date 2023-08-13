@@ -29,18 +29,18 @@ packages:
     dependency: "direct main"
     description:
       name: camera
-      sha256: b4cede7c66f44fa476272d21bfe143d5f32e75de1ea56f737e3eaf982da23bab
+      sha256: "3ad71371b8168a4c8012c0b40a53c05afc75d46cc688b0f37b4611a841d47b25"
       url: "https://pub.dev"
     source: hosted
-    version: "0.10.5+3"
+    version: "0.9.8+1"
   camera_android:
     dependency: transitive
     description:
       name: camera_android
-      sha256: "61d62676708f187fb89fb14b371f87470343ba3cb26d08fc358e4f8a18e13150"
+      sha256: "665d62c1f334722c7519ca5d3b94ad68ecaa801691870602da5638a42c1fff67"
       url: "https://pub.dev"
     source: hosted
-    version: "0.10.8+6"
+    version: "0.9.8+3"
   camera_avfoundation:
     dependency: transitive
     description:
@@ -61,10 +61,10 @@ packages:
     dependency: transitive
     description:
       name: camera_web
-      sha256: "894df2a4e9ddd77ffecee9553d5980eeabb8bf09d98e53934859e67dc367933b"
+      sha256: "18cdbee5441e9a6fb129fdd9b68a06d1b8c5236932ba97d5faeaefe80db2e5bd"
       url: "https://pub.dev"
     source: hosted
-    version: "0.3.2+1"
+    version: "0.2.1+6"
   characters:
     dependency: transitive
     description:
@@ -117,10 +117,10 @@ packages:
     dependency: "direct main"
     description:
       name: ffi
-      sha256: "35d0f481d939de0d640b3db9a7aa36a52cd22054a798a73b4f50bdad5ce12678"
+      sha256: "7bf0adc28a23d395f19f3f1eb21dd7cfd1dd9f8e1c50051c069122e6853bc878"
       url: "https://pub.dev"
     source: hosted
-    version: "1.1.2"
+    version: "2.1.0"
   file:
     dependency: transitive
     description:
@@ -236,10 +236,10 @@ packages:
     dependency: transitive
     description:
       name: path_provider_windows
-      sha256: "067e20d6d356f05a75eb9d563c2c0dcbb1889053e72dc2c53187668ac39da511"
+      sha256: "1cb68ba4cd3a795033de62ba1b7b4564dace301f952de6bfb3cd91b202b6ee96"
       url: "https://pub.dev"
     source: hosted
-    version: "2.0.3"
+    version: "2.1.7"
   petitparser:
     dependency: transitive
     description:
@@ -345,10 +345,10 @@ packages:
     dependency: "direct main"
     description:
       name: tflite_flutter
-      sha256: "663483abf86066cdf9eae29df65e5e39ea5823d3f426507a81840d3b84ce58cd"
+      sha256: "88b203c6efd7f4269aa137ef31e760d53e6639e60cd17bb86602462f72d4176b"
       url: "https://pub.dev"
     source: hosted
-    version: "0.9.0"
+    version: "0.9.5"
   tuple:
     dependency: "direct main"
     description:
@@ -377,10 +377,10 @@ packages:
     dependency: transitive
     description:
       name: win32
-      sha256: "309dff75a557c8bacaa3d0958c2f800d0b452c22998544f147ef99aae61b66f1"
+      sha256: f2add6fa510d3ae152903412227bda57d0d5a8da61d2c39c1fb022c9429a41c0
       url: "https://pub.dev"
     source: hosted
-    version: "2.2.5"
+    version: "5.0.6"
   xdg_directories:
     dependency: transitive
     description:
@@ -398,5 +398,5 @@ packages:
     source: hosted
     version: "5.1.2"
 sdks:
-  dart: ">=3.0.0-0 <4.0.0"
+  dart: ">=3.0.0 <4.0.0"
   flutter: ">=3.3.0"
